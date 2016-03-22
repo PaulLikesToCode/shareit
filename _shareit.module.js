@@ -1,3 +1,4 @@
+'use strict';
 angular.module('shareit', [])
 	.directive('shareit', [function() {
 		return {
