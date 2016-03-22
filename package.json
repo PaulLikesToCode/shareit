@@ -1,5 +1,5 @@
 {
-  "name": "share-it",
+  "name": "ng-share-it",
   "version": "0.1.0",
   "description": "Angular directive that allows the user to share the state of scope in a url.",
   "main": "_shareit.module.js",
